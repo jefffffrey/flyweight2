@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/jefffffrey/flyweight2.png?label=ready&title=Ready)](https://waffle.io/jefffffrey/flyweight2?utm_source=badge)
 # flyweight2
 ![Python Version](https://img.shields.io/badge/python-2.7-blue.svg)
 [![Build Status](https://travis-ci.org/jefffffrey/flyweight2.svg?branch=master)](https://travis-ci.org/jefffffrey/flyweight2) [![Coverage Status](https://coveralls.io/repos/github/jefffffrey/flyweight2/badge.svg?branch=master)](https://coveralls.io/github/jefffffrey/flyweight2?branch=master)
